@@ -18,3 +18,5 @@ def main():
 # Вызов функции с инструкцией
 if __name__ == '__main__':
     main()
+
+game = Board()
